@@ -49,3 +49,55 @@
 
 
 
+
+## case for picking topic 
+
+
+### what?
+
+- state exactly what you want to do (catch readers attention)
+- know your audience
+
+1. gallium oxide 
+2. wide band gap semi conductors
+  
+
+### why?
+
+- state exactly why you want to do it 
+- business / career / exciting field / etc etc ...
+
+
+### how?
+
+- know your stuff (as much as possible at this stage in your career)
+- if you don't know how to do the project there is no project 
+- impact is important (what will it be good for)
+
+
+### who?
+
+- clearly state your or the team's expertise
+- if not in the area of research -> subcontract 
+- who is required to do the research (don't forget collaborations)
+
+
+### when?
+
+- have a realistic time scale 
+- make a chart
+- aim to be first
+
+
+### how much?
+
+- need a detailed understanding of all the costs required to complete the project 
+  - staff 
+  - capital items 
+  - consumables
+  - facilities
+  - travel costs 
+  - overheads
+
+
+match the funding with the effort
