@@ -60,6 +60,9 @@
 
 1. gallium oxide 
 2. wide band gap semi conductors
+
+
+studying defects in ga-o 
   
 
 ### why?
