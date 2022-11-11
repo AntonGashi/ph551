@@ -40,7 +40,7 @@ blue water = irrigation
 - "Many studies focus on precipitation-based drought indices, but higher
   evaporative demands and changes in snow cover are additional drivers of
   hydrological, agricultural and ecological drought in many regions."
-- "At 1.5C the likelihood of extreme agriculture agriculture (soil moisture)
+- "At 1.5C the likelihood of extreme agriculture(soil moisture)
   drought is projected to at least double (100% increase) over large areas of
   northern South America, the Mediterranean, western China and high latitudes
   in North America and Eurasia. The likelihood is projected to increase by
@@ -136,4 +136,20 @@ and informative display of impact on precipitation is gained from looking at
 the 5th and 95th percentile predictions as seen in the graph below, this shows
 concentrated and large changes in precipitation in absolute terms at various
 predicted temperatures. 
-
+Another concern of climate change relating to water is the projected changes in
+droughts, of which the IPCC predicts (at 1.5C) a high likelihood of agriculture
+drought of at least double(100% increase) over large areas of northern South
+America, the Mediterranean, western China and high latitudes of North America
+and Eurasia.
+There are also concerns in the quality of water alongside sanitation and
+hygiene due to (mainly); the legacy contaminants in glaciers and permafrost,
+sewage overflows from heavy rainfall and drought-driven diminishing river and
+lake levels leading to salinisation of soil and water.
+This leads to the prediction that for a 2.1C change could mean that in
+Bangladesh an extra 2.2 million people would get diarrhoea, and globally by
+2030 children under the age of 15 will be subjected to an extra 48,000 deaths.
+Finally there is a risk to agriculture (according to RPC6.0), over 50% of
+lowlands used for irrigation will unsustainably use mountain runoff and
+globally 10%(+-5%) of pasture areas will be vulnerable to scarcity.
+In terms of absolute loss of yield (RPC8.5) there will be a loss of about 10%
+for wheat, 6% for maize, 19% for rice and 16% for soybean.
