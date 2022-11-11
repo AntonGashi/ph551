@@ -12,6 +12,7 @@ green water = rain fall
 
 blue water = irrigation
 
+
 ## Chapter 4.4.1 (projected changes in precipitation, evaporation and soil moisture)
 
 ### multi-model median change
@@ -44,6 +45,7 @@ blue water = irrigation
   northern South America, the Mediterranean, western China and high latitudes
   in North America and Eurasia. The likelihood is projected to increase by
   150-200% at 2C."
+
 
 ## Chapter 4.4.7 (projected changes in water quality)
 
@@ -92,6 +94,14 @@ blue water = irrigation
   of the droughts and that have fragile political climates
 
 
+## 4.6.1 (key risks related to water)
+
+- "roughly 500 million people experiencing historically unfamiliar
+  precipitation regimes"
+- "Approx 4 billion people globally face physical water scarcity for at least one month per year at 4C" 
+
+
+
 ## 4.8.1 (appropriate technologies)
 
 - "In addition, innovations to reuse water through various wastewater recovery
@@ -105,3 +115,25 @@ blue water = irrigation
 - Most of this development is happening in high income countries that most
   likely wont bear the costs of climate change making this a reason for drastic
   improvement of current technologies.
+
+
+
+The IPCC Work Group 2 Assessment Report titled "Climate Change 2022: Impacts,
+Adaptation and Vulnerability" identifies current observations, future
+predictions, key risks and adaptations in relation to their chapter(4) on water
+due to the impacts of climate change. Throughout the chapter they make various
+claim's about the changing ecosystem based on projected mean temperature
+change, these claim's alongside their confidence rating are useful in
+determining the impact of our specific work package. One claim made is the
+projected multi-model median changes of precipitation in which the majority of
+the planet will see a rise due to melting ice caps and permafrost, however
+specific areas should be evaluated as the change isn't uniform. For example at
+1.5C the Indian sub-continent will see average increases in precipitation
+alongside eastern Sahel, south-central Asia and parts of Greenland and
+Antarctica; in south America, southern Africa and the Mediterranean there is
+strong consensus that there will be a decrease in rain fall. A more detailed
+and informative display of impact on precipitation is gained from looking at
+the 5th and 95th percentile predictions as seen in the graph below, this shows
+concentrated and large changes in precipitation in absolute terms at various
+predicted temperatures. 
+
