@@ -1,11 +1,15 @@
 # Climate Change 2022: Impacts, Adaptation and Vulnerability
 
 RPC 2.6 = 0.9->2.3C
+
 RPC 4.5 = 1.7->3.2C
+
 RPC 6 = 2.0->3.7C
+
 RPC 8.5 = 3.2->5.4C
 
 green water = rain fall 
+
 blue water = irrigation
 
 ## Chapter 4.4.1 (projected changes in precipitation, evaporation and soil moisture)
