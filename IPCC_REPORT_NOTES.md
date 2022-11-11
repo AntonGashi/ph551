@@ -8,6 +8,38 @@ RPC 8.5 = 3.2->5.4C
 green water = rain fall 
 blue water = irrigation
 
+## Chapter 4.4.1 (projected changes in precipitation, evaporation and soil moisture)
+
+### multi-model median change
+
+- There are projected changes of precipitation on the Indian sub-continent at a
+  temperature mean of 1.5C, ranging from 10-20% decrease to a 40-50% increase.
+- At 1.5C there is a predicted increase change of precipitation from 20-30% in
+  the eastern Sahel, south-central Asia and parts of Greenland and Antarctica.
+- There's a strong consensus of decrease of precipitation at 1.5C in south
+  America, southern Africa and the Mediterranean.
+
+### 5th and 95th percentile
+
+- Although the median precipitation changes aren't that drastic in absolute
+  terms the 5th and 95th percentile predictions do show larger percentage
+  changes that could be impactful.
+
+
+## Chapter 4.4.5 (projected changes in droughts)
+
+- "AR6 WGI/WG1 concluded that the total land area subject to increasing drought
+  frequency and severity would expand, and in the Mediterranean, southwestern
+  South America and western North America, future aridification will far exceed
+  the magnitude of changes seen in the last millennium (high confidence)."
+- "Many studies focus on precipitation-based drought indices, but higher
+  evaporative demands and changes in snow cover are additional drivers of
+  hydrological, agricultural and ecological drought in many regions."
+- "At 1.5C the likelihood of extreme agriculture agriculture (soil moisture)
+  drought is projected to at least double (100% increase) over large areas of
+  northern South America, the Mediterranean, western China and high latitudes
+  in North America and Eurasia. The likelihood is projected to increase by
+  150-200% at 2C."
 
 ## Chapter 4.4.7 (projected changes in water quality)
 
@@ -54,3 +86,18 @@ blue water = irrigation
 - 13% probability increase at 2 degrees C that intra-state conflicts occur,
   especially risky in places close to the equator that will face the majority
   of the droughts and that have fragile political climates
+
+
+## 4.8.1 (appropriate technologies)
+
+- "In addition, innovations to reuse water through various wastewater recovery
+  technologies (Diaz-Elsayed et al., 2019; Capodaglio, 2020), create potable
+  water through desalinisation (Caldera et al., 2018) and reuse of wastewater
+  in agriculture (Salgot and Folch, 2018) are also on the rise (Box 4.5)."
+- "Solar technologies are increasingly used for irrigation, wastewater
+  recovery, desalinisation and water harvesting (Algarni et al., 2018;
+  Pouyfaucon and García-Rodríguez, 2018; Tu et al., 2018; Zhao F. et al.,
+  2020)."
+- Most of this development is happening in high income countries that most
+  likely wont bear the costs of climate change making this a reason for drastic
+  improvement of current technologies.
